@@ -16,6 +16,7 @@
     </style>
 
     <style name="ImageCell">
+        <item name="android:scaleType">fitXY</item>
         <item name="android:background">@color/colorWhite</item>
         <item name="android:layout_width">@dimen/image_width</item>
         <item name="android:layout_height">@dimen/image_height</item>
